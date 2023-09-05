@@ -1,0 +1,25 @@
+html{ background-color: black;}
+#poster{
+    border: 2px white solid;
+    margin-left: 35.55%;
+    margin-top: 8%;
+    margin-right: 32.48%;
+    padding: 0px
+}
+#img{
+    border: 2px white solid;
+}
+h1{ color: antiquewhite;
+    font-family: 'Permanent Marker', cursive;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 1.5rem;
+}
+p{
+    font-family: 'Permanent Marker', cursive;
+
+    text-align: right;
+    color: antiquewhite;
+    text-transform: uppercase;
+
+}
