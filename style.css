@@ -1,13 +1,15 @@
 html{ background-color: black;}
 #poster{
+    width: 40%;
     border: 2px white solid;
-    margin-left: 35.58%;
+    margin-left: 35%;
     margin-top: 8%;
-    margin-right: 28.66%;
+
     padding: 0px
 }
 #img{
     border: 2px white solid;
+    width: 100%;
 }
 h1{ color: antiquewhite;
     font-family: 'Permanent Marker', cursive;
